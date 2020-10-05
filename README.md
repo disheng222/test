@@ -198,7 +198,7 @@ Cosmology NYX simulation data:
   <figcaption>Figure 1: Baryon Density</figcaption>
 </figure>
 <figure class="image">
-  <img align="right" width="360" height="100" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/dark_matter_density.raw.log10-original.png">
+  <img align="right" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/dark_matter_density.raw.log10-original.png">
   <figcaption>Figure 2: Dark Matter Density</figcaption>
 </figure>
 
