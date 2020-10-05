@@ -192,13 +192,38 @@ February, 2020
 This R&D was supported by the Exascale Computing Project (ECP), Project Number: 17-SC-20-SC, a collaborative effort of two DOE organizations – the Office of Science and the National Nuclear Security Administration, responsible for the planning and preparation of a capable exascale ecosystem. This repository was based upon work supported by the U.S. Department of Energy, Office of Science, under contract DE-AC02-06CH11357, and also supported by the National Science Foundation under Grants OAC-1948447 and OAC-2034169.
 
 
-## Cosmology NYX simulation data: 
+### Cosmology NYX simulation data: 
 <figure class="image">
   <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/baryon_density_log10-2d.dat.png">
-  <figcaption>Figure 1: Baryon Density</figcaption>
+  <figcaption>Figure 1: one slice of Baryon Density field</figcaption>
 </figure>
 <figure class="image">
   <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/dark_matter_density.raw.log10-original.png">
-  <figcaption>Figure 2: Dark Matter Density</figcaption>
+  <figcaption>Figure 2: one slice of Dark Matter Density field</figcaption>
 </figure>
 
+### Hurricane simulation data: 
+<figure class="image">
+  <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/CLOUDf48.bin.dat.png">
+  <figcaption>Figure 1: one slice of CLOUD (step 48)</figcaption>
+</figure>
+<figure class="image">
+  <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/Uf01.dat.png">
+  <figcaption>Figure 4: one slice of Uf01</figcaption>
+</figure>
+
+### CESM-ATM simulation data: 
+<figure class="image">
+  <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/CLDLOW_1_1800_3600.png">
+  <figcaption>Figure 5: CLDLOW Field in CESM-ATM (2D dataset)  </figcaption>
+</figure>
+
+### Miranda simulation data: 
+<figure class="image">
+  <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/velocityz-256x384x384.f32.dat.png">
+  <figcaption>Figure 6: one slice of velocityz (along dim z)</figcaption>
+</figure>
+<figure class="image">
+  <img align="center" width="360" src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/velocityz-256x384x384-2.f32.dat.png">
+  <figcaption>Figure 7: one slice of velocityz (along dim x)</figcaption>
+</figure>
