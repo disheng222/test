@@ -194,11 +194,11 @@ This R&D was supported by the Exascale Computing Project (ECP), Project Number: 
 
 Cosmology NYX simulation data: 
 <figure class="image">
-  <img src="{{ https://www.mcs.anl.gov/~shdi/download/qcat-imgs/baryon_density_log10-2d.dat.png }}" width="360">
+  <img src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/baryon_density_log10-2d.dat.png" width="360">
   <figcaption>Figure 1: Baryon Density</figcaption>
 </figure>
 <figure class="image">
-  <img src="{{ https://www.mcs.anl.gov/~shdi/download/qcat-imgs/dark_matter_density.raw.log10-original.png }}" width="360"">
+  <img src="https://www.mcs.anl.gov/~shdi/download/qcat-imgs/dark_matter_density.raw.log10-original.png" width="360"">
   <figcaption>Figure 2: Dark Matter Density</figcaption>
 </figure>
 
